@@ -1,0 +1,62 @@
+body {
+    background-color: white;
+}
+a {
+      color: black;
+}
+h1 {
+    font-family: 'Bungee Shade', cursive;
+    color: white;
+        text-shadow: 2px 2px 3px black;
+        font-weight: bold;
+        text-align: center;
+        font-size: 50px;
+}
+h2{
+    color: white;
+        text-shadow: 2px 2px 4px black;
+        font-weight: bold;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    text-shadow: 2px 2px 4px black;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#mngr {
+    color: lightgoldenrodyellow;
+}
+#engi {
+    color: #ccebff;
+}
+#intr {
+    color: #d6f5d6;
+}
+
+#top {
+    background-color:steelblue;
+}
+#cardtop {
+    background-color:#5a91bf;
+    border: black;
+    border-style: solid 1px;
+}
+#cardmid {
+    background-color:#f2f2f2;
+    border: black;
+    border-style: solid 1px;
+}
+#card01 {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border: none;
+    width: 450px;
+    display: inline;
+}
+.card employee-card {
+    width: 375px;
+}

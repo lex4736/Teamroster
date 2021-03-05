@@ -128,3 +128,11 @@ function askIntern() {
         })
 
 }
+
+function profile() {
+    if (!fs.existsSync(OUTPUT_DIR)) {
+        fs.mkdirSync(OUTPUT_DIR);
+    }
+    fs.writeFileSync(outputPath, render(roles))
+}
+mainMenu();
