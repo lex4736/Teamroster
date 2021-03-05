@@ -38,3 +38,93 @@ function mainMenu() {
         }
     });
 }
+
+function askManager() {
+    inquirer.prompt([{
+                type: "input",
+                name: "name",
+                message: "What is the manager's name?"
+            },
+            {
+                type: "input",
+                name: "ID",
+                message: " Type ID you would like to use"
+            },
+            {
+                type: "input",
+                name: "email",
+                message: "What is their email address"
+            },
+            {
+                type: "input",
+                name: "officenumber",
+                message: "What is their office number?"
+            },
+        ])
+        .then(function (answer) {
+            const newManager = new Manager(answer.name, answer.ID, answer.email, answer.officenumber);
+            roles.push(newManager);
+            mainMenu();
+        })
+
+}
+
+function askEngineer() {
+    inquirer.prompt([{
+                type: "input",
+                name: "name",
+                message: "What is the engineers name?"
+            },
+            {
+                type: "input",
+                name: "ID",
+                message: " Type ID you would like to use"
+            },
+            {
+                type: "input",
+                name: "email",
+                message: "What is their email address"
+            },
+            {
+                type: "input",
+                name: "github",
+                message: "What is their Github account username?"
+            },
+        ])
+        .then(function (answer) {
+            const newEngineer = new Engineer(answer.name, answer.ID, answer.email, answer.github);
+            roles.push(newEngineer);
+            mainMenu();
+        })
+
+}
+
+function askIntern() {
+    inquirer.prompt([{
+                type: "input",
+                name: "name",
+                message: "What is the intern's name?"
+            },
+            {
+                type: "input",
+                name: "ID",
+                message: " Type ID you would like to use"
+            },
+            {
+                type: "input",
+                name: "email",
+                message: "What is their email address"
+            },
+            {
+                type: "input",
+                name: "school",
+                message: "What is their School name?"
+            },
+        ])
+        .then(function (answer) {
+            const newIntern = new Intern(answer.name, answer.ID, answer.email, answer.school);
+            roles.push(newIntern);
+            mainMenu();
+        })
+
+}
