@@ -30,12 +30,12 @@ npm test
  
 ----
 ## 🌠 <a id="demo"></a> Demo of Application
-Live video of application in action - Click on the video to see youtube version
 
-[![](https://user-images.githubusercontent.com/71117049/110201914-76a97a80-7e1a-11eb-8296-f422f6098b30.gif)](http://www.youtube.com/watch?v=GKyybVAzgkQ "Teamroster")
-----
-FINAL RESULT
+Screenshot of live server
 ![alt text](https://github.com/lex4736/Teamroster/blob/master/assets/Screenshot.png)
+
+Live video of application in action - Click on the video to see youtube version
+[![](https://user-images.githubusercontent.com/71117049/110205044-2e468880-7e2b-11eb-9055-5dddd2f98313.gif)](http://www.youtube.com/watch?v=M-nl0pjT3oQ "Teamroster Demo Video")
 
   ----
  ## 🌠 <a id="email"></a> Contact me for Questions 
