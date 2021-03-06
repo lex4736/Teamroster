@@ -1,7 +1,7 @@
 # ***Teamroster***
 
   
-## ✾ Description of Project
+## 🌠 Description of Project
   #### An npm inquirer powered application that will populate an employee team list based on data entered by the user for each selected predefined classes ( Manager, Engineer and Intern classes) 
   ----
 ## 🌠 Table of Contents
@@ -30,12 +30,11 @@ npm test
  
 ----
 ## 🌠 <a id="demo"></a> Demo of Application
-[![](http://img.youtube.com/vi/GKyybVAzgkQ/0.jpg)](http://www.youtube.com/watch?v=GKyybVAzgkQ "Teamroster")
-
+Live video of application in action(Click on the video to see youtube version)
+[![](https://user-images.githubusercontent.com/71117049/110201914-76a97a80-7e1a-11eb-8296-f422f6098b30.gif)](http://www.youtube.com/watch?v=GKyybVAzgkQ "Teamroster")
 ----
 FINAL RESULT
 ![alt text](https://github.com/lex4736/Teamroster/blob/master/assets/Screenshot.png)
-
 
   ----
  ## 🌠 <a id="email"></a> Contact me for Questions 
