@@ -26,7 +26,7 @@ My tutor for helping me troubleshoot errors
 
 ---- 
 ## 🌠 <a id="test"></a> How to test 
-npm test
+npm run test
  
 ----
 ## 🌠 <a id="demo"></a> Demo of Application
