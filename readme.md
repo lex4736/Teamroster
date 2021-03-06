@@ -2,7 +2,7 @@
 
   
 ## 🌠 Description of Project
-  #### An npm inquirer powered application that will populate an employee team list based on data entered by the user for each selected predefined classes ( Manager, Engineer and Intern classes). Utilizes Jest for runnign test 
+  #### An npm inquirer powered application that will populate an employee team list based on data entered by the user for each selected predefined classes ( Manager, Engineer and Intern classes). Utilizes Jest for running test 
   ----
 ## 🌠 Table of Contents
   * [Installation](#installation)
