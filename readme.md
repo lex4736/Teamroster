@@ -30,13 +30,16 @@ npm test
  
 ----
 ## 🍀 <a id="demo"></a> Demo of Application
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GKyybVAzgkQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/GKyybVAzgkQ/0.jpg)](http://www.youtube.com/watch?v=GKyybVAzgkQ "Teamroster")
+<br>
+FINAL RESULT
+![alt text](./Teamroster/assets/Screenshot.png)
 
 
   ----
  ## 🍀 <a id="email"></a> Contact me for Questions 
  **lex4736@gmail.com** 
-<br><br>
+<br><br> 
 
 
 
