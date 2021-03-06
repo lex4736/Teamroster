@@ -39,7 +39,6 @@ Live demo of application in action
 
 [![](https://user-images.githubusercontent.com/71117049/110205044-2e468880-7e2b-11eb-9055-5dddd2f98313.gif)](http://www.youtube.com/watch?v=M-nl0pjT3oQ "Teamroster Demo Video")
 
-Click here to watch on youtube https://www.youtube.com/watch?v=M-nl0pjT3oQ
   ----
  ## 🌠 <a id="email"></a> Contact me for Questions 
  **lex4736@gmail.com** 
